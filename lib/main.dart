@@ -1,3 +1,8 @@
+//{Maetrix F. Gonzales}: {Life's a Spoon and I'm a Fork}
+//{John Willemstad A. Osuyos}: {Time is Gold, 24k Carat, Kaya I Value my Time with You, Huyy}
+//{Cedrick Angelo R. Rico}: {Habang may Buhay may Pag-asa}
+
+
 import 'package:flutter/material.dart';
 
 void main() {
